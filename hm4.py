@@ -52,3 +52,5 @@ def introduce_animal(animal):
     print(f'Это {animal.display_info()}, Его {animal.make_sound()}')
     
 introduce_animal('Who is this?')
+
+print('hello wor;d') 

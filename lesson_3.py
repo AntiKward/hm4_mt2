@@ -117,4 +117,3 @@ print('Информация о компьютере')
 print(laptop.info())
 print(laptop.get_cpu())
 print(laptop.get_memory())
-
